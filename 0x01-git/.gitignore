@@ -1,0 +1,5 @@
+### Linux to ignore all ~ files ###
+*~
+
+# temporary files which can be created if a process still handle open of a delected file
+.fuse_hidden*

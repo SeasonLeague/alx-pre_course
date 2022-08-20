@@ -1,1 +1,3 @@
-My first readme
+# _My first readme_
+
+And i love :pizza: and my :computer:
